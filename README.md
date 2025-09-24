@@ -1,4 +1,11 @@
-## Hi there 👋
+## Who's Jun? 
+
+Hello 👋 I'm a Data Analyst who is passionate about transforming data into actionable insights.
+
+🛠️ Tools
+- Languages: SQL, Python, R
+- Databases: Microsft SQL Server, PostgreSQL, MySQL
+- Visualizations: Power BI, Tableau
 
 <!--
 **junthebae/junthebae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
