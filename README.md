@@ -2,7 +2,7 @@
 
 Hello 👋 I'm a Data Analyst who is passionate about transforming data into actionable insights.
 
-Still working on transfer my portfolio to GitHub
+Still working on transfering my portfolio to GitHub :)
 
 🛠️ Tools
 - Languages: SQL, Python, R
